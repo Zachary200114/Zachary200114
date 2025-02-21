@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**Zachary200114/Zachary200114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Zachary Ryan**, a passionate and driven individual with a background in the military and a strong focus on cybersecurity and technology.
 
-Here are some ideas to get you started:
+## 🎓 About Me
+- 🎓 **Education:** Currently pursuing a **B.S. in Cybersecurity** at **Robert Morris University**.
+- ⚓ **Veteran:** Proud **Navy Veteran**, bringing discipline, dedication, and teamwork to everything I do.
+- 💻 **Current Learning:** Taking a **Java course** to expand my programming skill set.
+- 🔍 **Career Goal:** Actively seeking **cybersecurity and IT-related internships** to apply my skills in real-world environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 🐍 **Python:** Experienced with scripting, automation, and problem-solving.
+- 🛢️ **SQL:** Proficient in database querying and management.
+- ☕ **Java:** Currently enhancing my knowledge through coursework.
+
+## 🚀 What I'm Working On
+- Developing projects that demonstrate my cybersecurity, programming, and IT knowledge.
+- Exploring new technologies and continuously improving my coding skills.
+- Building a professional network within the cybersecurity and IT communities.
+
+## 📫 Let's Connect!
+- 💼 **LinkedIn:** https://www.linkedin.com/in/zachary-ryan01/
+- 📧 **Email:** Zxrst175@mail.rmu.edu
+
+Thank you for stopping by! I'm always open to collaborations, learning opportunities, and connecting with like-minded individuals. 
