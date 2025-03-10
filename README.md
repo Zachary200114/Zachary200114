@@ -5,13 +5,12 @@ Hi there! I'm **Zachary Ryan**, a passionate and driven individual with a backgr
 ## About Me
 - **Education:** Currently pursuing a **B.S. in Cybersecurity** at **Robert Morris University**.
 - **Veteran:** Proud **Navy Veteran**, bringing discipline, dedication, and teamwork to everything I do.
-- **Current Learning:** Taking a **Java course** to expand my programming skill set.
 - **Career Goal:** Actively seeking **cybersecurity and IT-related internships** to apply my skills in real-world environments.
 
 ## Skills
 -  **Python:** Experienced with scripting, automation, and problem-solving.
-- **SQL:** Proficient in database querying and management.
-- **Java:** Currently enhancing my knowledge through coursework.
+- **SQL:** Exposure with database querying and management.
+- **Java:** Currently enhancing my knowledge through coursework at Robert Morris University.
 
 ## What I'm Working On
 - Developing projects that demonstrate my cybersecurity, programming, and IT knowledge.
