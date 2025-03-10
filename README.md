@@ -21,7 +21,7 @@ Hi there! I'm **Zachary Ryan**, a passionate and driven individual with a backgr
 ## Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/zachary-ryan01/
 - **Email:** Zxrst175@mail.rmu.edu
-- **GitHub** https://github.com/Zachary200114
-- **Portfolio-Website** https://zachary200114.github.io
+- **GitHub:** https://github.com/Zachary200114
+- **Portfolio-Website:** https://zachary200114.github.io
 
 Thank you for stopping by! I'm always open to collaborations, learning opportunities, and connecting with like-minded individuals. 
