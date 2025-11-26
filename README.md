@@ -1,26 +1,32 @@
-# Hello there, welcome to my GitHub profile.
+# Welcome to my GitHub profile
 
-Hi there! I'm **Zachary Ryan**, a passionate and driven individual with a background in the military and a strong focus on cybersecurity and technology.
+Hello, I'm **Zachary Ryan**—a U.S. Navy Veteran and cybersecurity student at Robert Morris University. I focus on cybersecurity, programming, and building secure, practical technical solutions. My work blends discipline and real-world experience from the military with academic learning and hands-on projects.
 
 ## About Me
-- **Education:** Currently pursuing a **B.S. in Cybersecurity** at **Robert Morris University**.
-- **Veteran:** Proud **Navy Veteran**, bringing discipline, dedication, and teamwork to everything I do.
-- **Career Goal:** Actively seeking **cybersecurity and IT-related internships** to apply my skills in real-world environments.
+- Currently pursuing a **B.S. in Cybersecurity** at **Robert Morris University**.
+- Former **United States Navy Machinist Mate** (Reactor Department).
+- Hold an active **Top Secret DoD clearance**.
+- Seeking **cybersecurity, security operations, or IT security internships**.
+- Interested in network security, digital forensics, incident response, and secure system design.
 
 ## Skills
--  **Python:** Experienced with scripting, automation, and problem-solving.
-- **SQL:** Exposure with database querying and management.
-- **Java:** Currently enhancing my knowledge through coursework at Robert Morris University.
+**Languages:** Python, Java, Bash, PowerShell, HTML/CSS, SQL  
+**Technologies:** Linux, Docker, Git/GitHub, Wireshark, tcpdump, SIEM tools  
+**Security Knowledge:** TCP/IP, firewalls, Nmap, digital forensics, virtualization, NIST RMF  
+**Strengths:** Problem-solving, attention to detail, communication, teamwork
 
-## What I'm Working On
-- Developing projects that demonstrate my cybersecurity, programming, and IT knowledge.
-- Exploring new technologies and continuously improving my coding skills.
-- Building a professional network within the cybersecurity and IT communities.
+## Current Work
+- Continuing to develop cybersecurity-focused tools and expand my technical skillset.
+- Completed projects include:
+  - Python-based port scanner (web application)
+  - Docker segmented network environment simulating multi-tier security
+  - Java password-cracker and password-generation toolkit
+- Currently strengthening knowledge in secure systems, networking, digital forensics, and incident response.
 
-## Let's Connect!
-- **LinkedIn:** https://www.linkedin.com/in/zachary-ryan01/
-- **Email:**    Zxrst175@mail.rmu.edu
-- **GitHub:**   https://github.com/Zachary200114
-- **Portfolio-Website:** https://zachary200114.github.io
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/zachary-ryan01/  
+- Email: Zxrst175@mail.rmu.edu  
+- GitHub: https://github.com/Zachary200114  
+- Portfolio: https://zachary200114.github.io  
 
-Thank you for stopping by! I'm always open to collaborations, learning opportunities, and connecting with like-minded individuals. 
+Thank you for visiting my profile. I am always open to professional connections, collaborations, and learning opportunities.
