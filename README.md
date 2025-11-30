@@ -21,7 +21,8 @@ Hello, I'm **Zachary Ryan**—a U.S. Navy Veteran and cybersecurity student at R
   - Python-based port scanner (web application)
   - Docker segmented network environment simulating multi-tier security
   - Java password-cracker and password-generation toolkit
-  - AI phishing detector 
+  - AI powered phishing detector
+  - AI powered network anomaly lab 
 - Currently strengthening knowledge in secure systems, networking, digital forensics, and incident response.
 
 ## Connect With Me
