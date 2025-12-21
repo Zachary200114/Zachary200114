@@ -5,7 +5,7 @@ Hello, I'm **Zachary Ryan**—a U.S. Navy Veteran and cybersecurity student at R
 ## About Me
 - Currently pursuing a **B.S. in Cybersecurity** at **Robert Morris University**.
 - Former **United States Navy Machinist Mate** (Reactor Department).
-- Hold an active **Top Secret DoD clearance**.
+- Hold an active **Secret DoD clearance**.
 - Seeking **cybersecurity, security operations, or IT security internships**.
 - Interested in network security, digital forensics, incident response, and secure system design.
 
