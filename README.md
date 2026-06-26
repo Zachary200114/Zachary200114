@@ -15,10 +15,16 @@ I am especially interested in the intersection of technical cybersecurity, gover
 
 ## Skills
 
-**Languages:** Python, Java, Bash, PowerShell, HTML/CSS, SQL
-**Technical:** Linux, Docker, Git/GitHub, TCP/IP, firewalls, operating systems, digital forensics, network segmentation
-**Security Tools:** CrowdStrike Falcon, Rapid7, Azure, NinjaOne, Mimecast, Okta, Keeper, Freshservice, Wireshark, Nmap
-**Governance & Policy:** NIST AI RMF, ISO/IEC 42001, AI governance, cyber policy, auditability, risk management, third-party risk management
+## Skills
+
+**Languages:** Python, Java, Bash, PowerShell, HTML/CSS, SQL  
+
+**Technical:** Linux, Docker, Git/GitHub, TCP/IP, firewalls, operating systems, digital forensics, network segmentation  
+
+**Security Tools:** CrowdStrike Falcon, Rapid7, Azure, NinjaOne, Mimecast, Okta, Keeper, Freshservice, Wireshark, Nmap  
+
+**Governance & Policy:** NIST AI RMF, ISO/IEC 42001, AI governance, cyber policy, auditability, risk management, third-party risk management  
+
 **Strengths:** Research, technical writing, critical thinking, attention to detail, communication, leadership, problem-solving
 
 ## Current Work
